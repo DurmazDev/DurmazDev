@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Wordest!**
 
-- 🌱 I’m currently learning **React & Java**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 You can connect with me at **aahmetdurmaz1@gmail.com**
 
