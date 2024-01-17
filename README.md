@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🙋‍♀️ I'm a backend developer who's still studying.<br/>
+👋 I'm a backend developer who's still studying.<br/>
 🌈 I'm also interested in learning new technologies, so if you have any recommendations, let me know!
 
 ## 🌐 Socials:
