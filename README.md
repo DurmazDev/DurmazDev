@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-#### A Developer by day and a Cybersecurity learner by night
+#### Developer by day, cybersecurity learner by night
 
 - ⚙️ I use daily: Especially Python & Go, also whatever the team needs
 - 💬 `ping` me about **development**, **cloud**, **security & breaking things**
